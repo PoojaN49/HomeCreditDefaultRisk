@@ -1,6 +1,7 @@
 # HomeCreditDefaultRisk
 
-Dataset can be downloaded from here https://drive.google.com/drive/folders/16MhhITTm2dOxRPrU9DLMudQm2X-7lTj1?usp=sharing
+Dataset can be downloaded at  https://drive.google.com/drive/folders/16MhhITTm2dOxRPrU9DLMudQm2X-7lTj1?usp=sharing
+
 Objective: To Predict how capable each applicant is of replaying a loan
 
 Dataset: Data file contains 7 various CSV files .Later these files were merged with the unique customer ID, resulted in 188678 rows and 168 columns.
